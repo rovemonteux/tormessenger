@@ -1,4 +1,4 @@
 tormessenger
 ============
 
-Tor Messenger, portable instant messaging in the Tor network.
+Tor Messenger, decentralized portable instant messaging in the Tor network.
