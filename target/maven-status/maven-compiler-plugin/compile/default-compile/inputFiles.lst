@@ -1,0 +1,12 @@
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/gui/Menu.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/network/NetworkServer.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/gui/DebugOutputStream.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/network/NetworkClient.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/Messenger.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/gui/Desktop.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/gui/chat/Chat.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/gui/chat/Outgoing.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/network/TorLayer.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/gui/About.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/gui/chat/Incoming.java
+/root/githubworkspace/tormessenger/src/main/java/com/rovemonteux/tormessenger/gui/chat/ChatWindow.java
